@@ -1,0 +1,98 @@
+{
+  "main": {
+    "name": "Kishor Dure",
+    "occupation": "React.Js Frontend Web Developer",
+    "description": "The goal isn’t to build a website. The goal is to build your business.",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Kishor! a Computer Science graduate. Looking for a position as a React.Js Frontend Web Developer. I have done tone of project in Web Development and Some Awesome projects in React, Please check below in my work section ",
+    "contactmessage": "Get in touch with me to Hire",
+    "email": "dure.kb@gmail.com",
+    "phone": "+91 8600500700",
+    "address": {
+      "street": "Hinjewadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411057"
+    },
+    "resumedownload": "https://drive.google.com/drive/u/0/folders/0Bx3vb0k2piuxMWhxS3ppVEFzRmM",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kishor.dure.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kishor-dure/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kishor_dure/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Kishor-Dure",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "S.R.T.M University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "June 2015",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "TechMahindra Ltd",
+        "title": "Sr. Technical Support",
+        "years": "May 2019 - Sep 2020",
+        "description": "Deploying WAR, JAR file on Servers, Managing the Servers load balancing with Oracle WebLogic and Troubleshooting the problems."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.Js",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5/CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "Bootstrap4/Material-UI",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker (React JS)",
+        "category": "",
+        "image": "covid19.jpg",
+        "url": "https://covide-19-live.herokuapp.com/"
+      },
+      {
+        "title": "Clothing Store (React JS)",
+        "category": "",
+        "image": "clothing-store.jpg",
+        "url": "https://kd-clothing-store.herokuapp.com/"
+      }
+    ]
+  }
+}
